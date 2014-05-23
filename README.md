@@ -1,9 +1,11 @@
-### Chris Morris has [goals](https://github.com/ChrisMorrisOrg/Life/issues?state=open) and [accomplishments](https://github.com/ChrisMorrisOrg/Life/issues?state=closed).
+# Chris Morris
 
-This is an experiment in treating life like a software project, with bugs and features that need to be built.
+### → I have [`goals`](https://github.com/ChrisMorrisOrg/Life/issues?state=open) and [`achievements`](https://github.com/ChrisMorrisOrg/Life/issues?state=closed). ←
 
-#### License: [GNU General Public License](http://www.gnu.org/licenses/gpl.html)
+### What is this?
 
-You're free to copy my life as long as you share it under the same license. ;)
+An experiment in treating life like a software project.
 
-Originally created by [Feross Aboukhadijeh](http://feross.org/life).
+### Join In!
+
+[Fork Life!](https://github.com/feross/Life)
